@@ -1,0 +1,182 @@
+[
+  {
+    "id": "alp",
+    "kelime": "Alp",
+    "arapca": "اَلْپْ",
+    "orijinal": "Yiğit, kahraman, cesur, bahadır kimse. Savaşlarda boy gösteren, yürekli, korkusuz ve tek başına ordulara meydan okuyan erleri tanımlamak için kullanılır. Türk hakanları ve beyleri bu unvanı taşımaktan gurur duyar. Kaşgarlı Mahmud, ünlü Alp Er Tunga sagusunu (ağıtını) bu kelimeyi açıklarken zikreder.",
+    "sav": "Alp eröni bulmas, at hani kalmas",
+    "savAnlam": "Yiğit er ölümsüz olmaz, iyi at sahipsiz kalmaz. (Her fani ölür ama geride yiğitlerin şanı kalır.)",
+    "guncel": "Kahraman, yiğit, cesur savaşçı. En ünlü örneği Alp Er Tunga'dır."
+  },
+  {
+    "id": "acun",
+    "kelime": "Acun",
+    "arapca": "اَجُنْ",
+    "orijinal": "Dünya, varlık alemi, yeryüzü. Türklerin cihan hakimiyeti mefkuresinde 'Acun' tek bir hakan tarafından adaletle yönetilmesi gereken devasa bir mülktür. Divan'da acunun geçiciliği ve kahramanları bile yuttuğu üzerine pek çok edebi parça bulunur.",
+    "sav": "Acun kalıg barça tüzetmiş, erdemlig bilgeni dahi tüzetmiş.",
+    "savAnlam": "Dünya düzenini tamamen kurmuş, erdemli ve bilge insanları dahi o düzene tabi kılmıştır. (Dünyanın kanunundan kimse kaçamaz.)",
+    "guncel": "Dünya, evren, cihan."
+  },
+  {
+    "id": "at",
+    "kelime": "At",
+    "arapca": "اَتْ",
+    "orijinal": "At, binecek hayvan. Türkün kanadıdır. Divan'da atın donları (renkleri), bakımı, eyer takımları ve Türk boylarının at kültürüne dair destansı bilgiler yer alır. At, savaşta alpın en yakın yoldaşı, barışta ise obanın zenginlik nişanesidir.",
+    "sav": "At kuşu kanatın, er atın",
+    "savAnlam": "Kuş kanadıyla uçup kendini kurtarır, er kişi de atı sayesinde muradına erer, tehlikeden kaçar.",
+    "guncel": "At. Türk kültürünün ve askeri gücünün en kutsal binek hayvanı."
+  },
+  {
+    "id": "avuç",
+    "kelime": "Avuç",
+    "arapca": "اَوُج|",
+    "orijinal": "Elin iç kısmı, bir elin alabildiği miktar. Divan'da bu kelime verilirken, Türklerin cömertlik adetleri ve bir misafire avuç avuç ikram edilen kurutlar (keş/peynir), yemişler anlatılır.",
+    "sav": "Avuçka altun birse avunmas",
+    "savAnlam": "İhtiyara (yaşlı adama) dünyaları versen yine de gençliğini özler, avunamaz. (Zamanın ve gençliğin parayla geri alınamayacağını anlatan kadim söz.)",
+    "guncel": "Avuç, el içi."
+  },
+  {
+    "id": "arka",
+    "kelime": "Arka",
+    "arapca": "اَرْقَا",
+    "orijinal": "Sırt, arkada olan kısım, sığınak, dayanak, hami. Bir alpın savaş meydanında güvendiği yoldaşı veya boyunun arkasında duran ulu beyi tanımlamak için mecazen de kullanılır.",
+    "sav": "Arkasız er yagıga uşar",
+    "savAnlam": "Arkası (dayanağı, destekçisi) olmayan er, düşmana yem olur, hemen yenilir. (Birlik ve beraberliğin önemini vurgulayan sav.)",
+    "guncel": "Arka, sırt; mecazen destekçi, dayanak."
+  },
+  {
+    "id": "ay",
+    "kelime": "Ay",
+    "arapca": "اَيْ",
+    "orijinal": "Gök cismi olan ay, takvim birimi. Türklerde güzelliğin, parlaklığın ve kutsiyetin simgesidir. Kaşgarlı, Türklerin ayların hareketlerine göre göç ve savaş vakitlerini nasıl tayin ettiklerini bu maddede açıklar.",
+    "sav": "Ay toldı erse elgin imlemes",
+    "savAnlam": "Ay dolunay halini alıp parlayınca, artık görünmek için eliyle işaret etmesine gerek kalmaz. (Büyük ve apaçık başarılar reklam gerektirmez.)",
+    "guncel": "Ay (gökyüzündeki) ve zaman birimi olan ay."
+  },
+  {
+    "id": "aç",
+    "kelime": "Aç",
+    "arapca": "اَجْ",
+    "orijinal": "Yemek yememiş, karnı boş kimse; doymak bilmeyen. Divan'da Türklerin açları doyurma töresi, han-ı yağma adı verilen ziyafet gelenekleri bu kelime vesilesiyle zikredilir.",
+    "sav": "Aç ne yemez, tok ne demez",
+    "savAnlam": "Aç olan adam önü gelen her şeyi yer, tok olan adam ise (şımarıklığından) her şeye bir kulp takar, laf eder.",
+    "guncel": "Aç, karnı doymamış kimse."
+  },
+  {
+    "id": "akın",
+    "kelime": "Akın",
+    "arapca": "اَقِنْ",
+    "orijinal": "Düşman topraklarına yapılan ani ve süratli atlı hücum, sel gibi coşkun gidiş. Divan'da Türk süvarilerinin düşman obalarına yaptığı yıldırım harekatları bu kelimeyle tasvir edilir.",
+    "sav": "Akın kelser arkış unmas",
+    "savAnlam": "Akın (düşman hücumu) başladığı zaman, kervanlar yola çıkamaz, ticaret durur. (Savaşın sosyal hayatı felç etmesi.)",
+    "guncel": "Akın, askeri hücum, baskın."
+  },
+  {
+    "id": "aslan",
+    "kelime": "Aslan",
+    "arapca": "اَسْلَنْ",
+    "orijinal": "Yırtıcı hayvan, aslan. Türk hakanlarının heybetini, yırtıcılığını ve gücünü simgeler. Çoğu Türk beyinin adında unvan olarak yer alır. Kaşgarlı, Türklerin aslan avlama taktiklerini de bu bölümde anlatır.",
+    "sav": "Aslan kükrese at ayak tüşer",
+    "savAnlam": "Aslan kükrediği zaman, atın ayaklarının bağı çözülür, basamaz olur. (Güçlü liderlerin heybetinin düşmanı felç etmesi.)",
+    "guncel": "Aslan. Güç, cesaret ve hükümdarlık sembolü."
+  },
+  {
+    "id": "and",
+    "kelime": "And",
+    "arapca": "اَنْدْ",
+    "orijinal": "Yemin, ahit, sözleşme. Türk boyları arasında and içme törenleri çok kutsaldır. İki bey dost veya müttefik olacağı zaman bir kaba kımız veya su koyar, içine kılıçlarını batırarak and içerler. Sözünden dönen andı vurur.",
+    "sav": "And içip erlikten çıksa andı anı urur",
+    "savAnlam": "Yemin edip de sözünde durmayan ve erlikten çıkan kimseyi, ettiği o yemin çarpar/mahveder.",
+    "guncel": "And, yemin."
+  },
+  {
+    "id": "alkış",
+    "kelime": "Alkış",
+    "arapca": "اَلْقِشْ",
+    "orijinal": "Övgü, dua, birinin iyiliği için söylenen güzel sözler. Divan'da hanların, beylerin kurultaylarda halkı selamlaması ve halkın da beye 'alkış' (dua) etmesi geleneği genişçe yer bulur.",
+    "sav": "Alkış birle il büyür, kargış birle il batar",
+    "savAnlam": "Hayır duası ile devlet/millet büyür, beddua (zulüm ve kargış) ile devlet batar, yok olur.",
+    "guncel": "Övgü, dua (Günümüzde el çırpma anlamında kullanılsa da orijinali duadır)."
+  },
+  {
+    "id": "armağan",
+    "kelime": "Armağan",
+    "arapca": "اَرْمَغَنْ",
+    "orijinal": "Hediye, bir yere gidildiğinde oradakilere götürülen göz nuru bahşiş. Türk devletlerarası diplomasisinde elçilerin hakanlara sunduğu değerli kürkler, ipekler ve atlar armağan olarak adlandırılır.",
+    "sav": "Armağan kelser ağırlık artar",
+    "savAnlam": "Bir yere hediye ile gidilirse, görenlerin misafire olan saygısı, ağırlaması ve hürmeti katbekat artar.",
+    "guncel": "Hediye, armağan."
+  },
+  {
+    "id": "aş",
+    "kelime": "Aş",
+    "arapca": "اَش_ْ",
+    "orijinal": "Yemek, aş, ziyafet. Türk sofrasının bereketidir. Kaşgarlı Mahmud, Türk boylarının meşhur etli yemeklerini, tutmacını (mantı benzeri kadim Türk yemeği) ve beylerin halka verdiği ulu ziyafetleri bu kelime altında uzun uzun tarif eder.",
+    "sav": "Aş tatıgı tuz, er tatıgı kız",
+    "savAnlam": "Yemeğin lezzeti tuzundan gelir, er kişinin (ailenin/toplumun) neşesi ve tadı ise evladından, kızından gelir.",
+    "guncel": "Yemek, aş."
+  },
+  {
+    "id": "ayık",
+    "kelime": "Ayık",
+    "arapca": "اَيِقْ",
+    "orijinal": "Vaat, söz, birine verilen kesin söz. İki insanın veya beyin karşılıklı olarak anlaştığı, geri dönüşü olmayan ahitleşme.",
+    "sav": "Ayıkka durmas er er sayılmaz",
+    "savAnlam": "Verdiği sözde (vaadinde) durmayan kişi, erkekten/insandan sayılmaz. (Sözünün eri olmanın ehemmiyeti.)",
+    "guncel": "Vaat, söz."
+  },
+  {
+    "id": "alper tunga",
+    "kelime": "Alp Er Tunga Sagusu",
+    "arapca": "اَلْپْ اَرْ تُنْغَا",
+    "orijinal": "Divânu Lugâti't-Türk'ün en kutsal edebi parçasıdır. Kaşgarlı Mahmud, Türklerin efsanevi başbuğu, Saka Türklerinin hakanı Alp Er Tunga'nın kahpece öldürülmesinin ardından Türk boylarının yaktığı o meşhur destansı ağıtı (saguyu) bu maddede bize aktarır.",
+    "sav": "Alp Er Tunga öldi mü? / Esiz acun kaldı mu? / Ödlek öçin aldı mu? / Emdi yürek yırtılur.",
+    "savAnlam": "Yiğit başbuğ Alp Er Tunga öldü mü? Kötü dünya sahipsiz kaldı mı? Kahpe felek öcünü aldı mı? Şimdi acıdan yürekler yırtılıyor.",
+    "guncel": "Kadim Türk tarihinin en eski destansı hükümdarı adına yakılan efsanevi ağıt."
+  },
+  {
+    "id": "avuçlamaq",
+    "kelime": "Avuçlamaq",
+    "arapca": "اَوُجْلَمَقْ",
+    "orijinal": "Bir şeyi avuçla almak, avuç dolusu kavramak. Divan'da özellikle hasat zamanı buğdayın ve pulses (bakliyat) ürünlerinin çuvallardan avuçlanarak ölçeklere konulması anlatılır.",
+    "sav": "Uluğ bilsen avuçla, küçük bilsen tutamla",
+    "savAnlam": "Büyük işleri bol bol avuçlayarak (büyük vizyonla) yap, küçük işleri ise dikkatlice tutamla yönet.",
+    "guncel": "Avuçlamak, avuç dolusu almak."
+  },
+  {
+    "id": "artaq",
+    "kelime": "Artaq",
+    "arapca": "اَرْتَقْ",
+    "orijinal": "Bozuk, hırpalanmış, fesat kimse veya nesne. İşlevini yitirmiş durumları veya sözünde durmayarak bozulan ittifakları tanımlamak için kullanılır.",
+    "sav": "Artaq nesne tüzülmez",
+    "savAnlam": "Mayası bozulmuş, çürümüş olan şey bir daha kolay kolay düzelmez, eski halini almaz.",
+    "guncel": "Bozuk, çürük, fesat."
+  },
+  {
+    "id": "ayruq",
+    "kelime": "Ayruq",
+    "arapca": "اَيْرُقْ",
+    "orijinal": "Başka, farklı, ayrı düşen. Boyların birbirinden ayrılması veya bir alpın kendi obasından başka bir yere göç etmesi durumlarında kullanılır.",
+    "sav": "Ayruq yolga kirsen azarsın",
+    "savAnlam": "Büyüklerin gittiği ana yoldan çıkıp ayrı, bilinmeyen yollara girersen yönünü şaşırır, kaybolursun.",
+    "guncel": "Başka, ayrı, farklı."
+  },
+  {
+    "id": "azuq",
+    "kelime": "Azuq",
+    "arapca": "اَزُقْ",
+    "orijinal": "Yolculuğa çıkan alpın veya kervanın yanına aldığı yiyecek, sefer azığı. Türk süvarilerinin günlerce at üstünde kalmasını sağlayan kurutulmuş etler ve peksimetler bu kapsama girer.",
+    "sav": "Yol erinin azuqu belinde gerek",
+    "savAnlam": "Yola çıkan adamın azığı her an yanında, belinde hazır olmalıdır. (Hazırlıksız yola çıkılmaması gerektiğini nasihat eder.)",
+    "guncel": "Azık, yol yiyeceği."
+  },
+  {
+    "id": "ata",
+    "kelime": "Ata",
+    "arapca": "اَتَا",
+    "orijinal": "Baba, dede, büyük ecdat. Türk aile yapısının ve boy hiyerarşisinin en tepesindeki saygın kişi. Divan'da ataya hürmet devletin bekasıyla eşdeğer tutulur.",
+    "sav": "Ata sözini tutmayan azara gider",
+    "savAnlam": "Büyüklerinin, atasının sözünü dinlemeyip kendi burnunun dikine giden kişi doğru yoldan sapar, perişan olur.",
+    "guncel": "Ata, baba, ecdat."
+  }
+]
