@@ -21,7 +21,7 @@
     "id": "at",
     "kelime": "At",
     "arapca": "اَتْ",
-    "orijinal": "At, binecek hayvan. Türkün kanadıdır. Divan'da atın donları (renkleri), bakımı, eyer takımları ve Türk boylarının at kültürüne dair destansı bilgiler yer alır. At, savaşta alpın en yakın yoldaşı, barışta ise obanın zenginlik nişanesidir.",
+    "orijinal": "At, binecek hayvan. Türkün kanadıdır. Divan'da atın donları (renkleri), bakımı, eyer takımları ve Türk boylarının at kültürüne dair destansi bilgiler yer alır. At, savaşta alpın en yakın yoldaşı, barışta ise obanın zenginlik nişanesidir.",
     "sav": "At kuşu kanatın, er atın",
     "savAnlam": "Kuş kanadıyla uçup kendini kurtarır, er kişi de atı sayesinde muradına erer, tehlikeden kaçar.",
     "guncel": "At. Türk kültürünün ve askeri gücünün en kutsal binek hayvanı."
@@ -29,7 +29,7 @@
   {
     "id": "avuç",
     "kelime": "Avuç",
-    "arapca": "اَوُج|",
+    "arapca": "اَوُجْ",
     "orijinal": "Elin iç kısmı, bir elin alabildiği miktar. Divan'da bu kelime verilirken, Türklerin cömertlik adetleri ve bir misafire avuç avuç ikram edilen kurutlar (keş/peynir), yemişler anlatılır.",
     "sav": "Avuçka altun birse avunmas",
     "savAnlam": "İhtiyara (yaşlı adama) dünyaları versen yine de gençliğini özler, avunamaz. (Zamanın ve gençliğin parayla geri alınamayacağını anlatan kadim söz.)",
@@ -110,7 +110,7 @@
   {
     "id": "aş",
     "kelime": "Aş",
-    "arapca": "اَش_ْ",
+    "arapca": "اَشْ",
     "orijinal": "Yemek, aş, ziyafet. Türk sofrasının bereketidir. Kaşgarlı Mahmud, Türk boylarının meşhur etli yemeklerini, tutmacını (mantı benzeri kadim Türk yemeği) ve beylerin halka verdiği ulu ziyafetleri bu kelime altında uzun uzun tarif eder.",
     "sav": "Aş tatıgı tuz, er tatıgı kız",
     "savAnlam": "Yemeğin lezzeti tuzundan gelir, er kişinin (ailenin/toplumun) neşesi ve tadı ise evladından, kızından gelir.",
@@ -138,7 +138,7 @@
     "id": "avuçlamaq",
     "kelime": "Avuçlamaq",
     "arapca": "اَوُجْلَمَقْ",
-    "orijinal": "Bir şeyi avuçla almak, avuç dolusu kavramak. Divan'da özellikle hasat zamanı buğdayın ve pulses (bakliyat) ürünlerinin çuvallardan avuçlanarak ölçeklere konulması anlatılır.",
+    "orijinal": "Bir şeyi avuçla almak, avuç dolusu kavramak. Divan'da özellikle hasat zamanı buğdayın ve bakliyat ürünlerinin çuvallardan avuçlanarak ölçeklere konulması anlatılır.",
     "sav": "Uluğ bilsen avuçla, küçük bilsen tutamla",
     "savAnlam": "Büyük işleri bol bol avuçlayarak (büyük vizyonla) yap, küçük işleri ise dikkatlice tutamla yönet.",
     "guncel": "Avuçlamak, avuç dolusu almak."
@@ -178,5 +178,347 @@
     "sav": "Ata sözini tutmayan azara gider",
     "savAnlam": "Büyüklerinin, atasının sözünü dinlemeyip kendi burnunun dikine giden kişi doğru yoldan sapar, perişan olur.",
     "guncel": "Ata, baba, ecdat."
+  },
+  {
+    "id": "altun",
+    "kelime": "Altun",
+    "arapca": "اَلْتُنْ",
+    "orijinal": "Altın madeni, zenginlik ve egemenlik ölçüsü. Divan'da Türk hakanlarının bastırdığı altın sikkeler ve kadınların takındığı işlemeli altın takılar geniş yer tutar.",
+    "sav": "Altun tüşse paslanmaz, uluğ ölse adın kalır",
+    "savAnlam": "Altın çamura düşse de pas tutup değerini kaybetmez; ulu ve bilge insanlar ölse de isimleri dünyada ebediyen kalır.",
+    "guncel": "Altın."
+  },
+  {
+    "id": "arıg",
+    "kelime": "Arıg",
+    "arapca": "اَرِغْ",
+    "orijinal": "Temiz, saf, günahsız, pak. Hem suyun temizliği gibi fiziki durumlar için hem de insanın ahlakı temizliği için kullanılan en kadim sıfatlardan biridir.",
+    "sav": "Arıg suwda kir kalmas, arıg erde yalan kalmas",
+    "savAnlam": "Temiz suda kir barınamaz, dürüst ve pak bir insanın üzerinde de hiçbir yalan veya iftira kalıcı olamaz.",
+    "guncel": "Arı, saf, temiz, duru."
+  },
+  {
+    "id": "av",
+    "kelime": "Av",
+    "arapca": "اَوْ",
+    "orijinal": "Yabani hayvan takibi, sığır avı. Türklerin hem temel geçim kaynağı hem de ordunun askeri disiplinini diri tutmak için yılda birkaç kez düzenlediği devasa süvari tatbikatlarıdır (Sığır avı).",
+    "sav": "Avcı nice al bilse, ayıg anca yol bilir",
+    "savAnlam": "Avcı avını yakalamak için kaç hile bilirse bilsin, ayı da ondan kurtulmak için o kadar yol bilir. (Her gücün karşısında bir kurnazlık bulunur.)",
+    "guncel": "Av, avlanma."
+  },
+  {
+    "id": "ayiğ",
+    "kelime": "Ayiğ",
+    "arapca": "اَيِغْ",
+    "orijinal": "Ayı (hayvan). Divan'da ormanlık ve dağlık bölgelerde yaşayan güçlü yaban hayvanlarının tasvirlerinde sıkça adı geçer.",
+    "sav": "Ayıg yaguz kılsa bilgesi anı yörür",
+    "savAnlam": "Ayı ne kadar hırçınlık yaparsa yapsın, ormanın tecrübeli avcısı onun ne yapacağını bilir und ona göre tedbir alır.",
+    "guncel": "Ayı."
+  },
+  {
+    "id": "alıç",
+    "kelime": "Alıç",
+    "arapca": "اَلِجْ",
+    "orijinal": "Dağlarda yetişen ekşimsi yabani meyve, alıç. Kaşgarlı Mahmud bu kelimeyi açıklarken Türk boylarının doğadaki bitkileri ve şifalı otları nasıl tanıdığını kaydeder.",
+    "sav": "Alıç acıg erse de aşka sayılır",
+    "savAnlam": "Alıç meyvesi ne kadar ekşi/acı olsa da kıtlık zamanında sofrada nimetten sayılır.",
+    "guncel": "Alıç meyvesi."
+  },
+  {
+    "id": "adgır",
+    "kelime": "Adgır",
+    "arapca": "اَدْغِرْ",
+    "orijinal": "Aygır, erkek at. Sürünün lideri olan, gücü ve soyluluğu temsil eden en kıymetli at türüdür.",
+    "sav": "Adgır kükrese kısrak tüzülür",
+    "savAnlam": "Aygır gücünü gösterip kükrediğinde, sürüdeki tüm kısraklar hizaya girer. (Güçlü otoritenin toplumu düzene sokması.)",
+    "guncel": "Aygır, erkek at."
+  },
+  {
+    "id": "ağı",
+    "kelime": "Ağı",
+    "arapca": "اَغِي",
+    "orijinal": "İpekli kumaş, değerli kıyafet, hilat. Genellikle hakanların yabancı elçilere veya kahramanlık gösteren alplara giydirdiği kutsal hediye giysi.",
+    "sav": "Ağılığ er agırlanır",
+    "savAnlam": "Değerli ve şık ipekler giyen kişi kurultayda ve cemiyette dış görünüşüyle hürmet görür, ağırlanır.",
+    "guncel": "İpekli kumaş, değerli giysi."
+  },
+  {
+    "id": "az",
+    "kelime": "Az",
+    "arapca": "اَzْ",
+    "orijinal": "Miktar olarak az, nadir. Divan'da kanaatkarlığı öğütleyen cümlelerde sıkça geçer.",
+    "sav": "Az tatar, uz tatar",
+    "savAnlam": "Az yiyen hem lezzetini alır hem de sağlığını korur, uzun yaşar.",
+    "guncel": "Az, azıcık."
+  },
+  {
+    "id": "alık",
+    "kelime": "Alık",
+    "arapca": "اَلِقْ",
+    "orijinal": "Kötü huy, inatçılık, hırçınlık. Genellikle söz dinlemeyen dik kafalı gençleri veya huysuz atları tanımlar.",
+    "sav": "Alık atka uluğ gem gerek",
+    "savAnlam": "Huysuz ve inatçı ata büyük, sert bir gem vurmak gerekir ki yola gelsin. (Sert mizaçlıların disipline edilmesi.)",
+    "guncel": "Huysuz, inatçı."
+  },
+  {
+    "id": "arpa",
+    "kelime": "Arpa",
+    "arapca": "اَرْپَا",
+    "orijinal": "Arpa tanesi, tahıl. Atların en temel gücü ve Türk tarımının en eski pulses (bakliyat) mahsullerinden biridir.",
+    "sav": "Arpasız at aşamaz, arkasız er başamaz",
+    "savAnlam": "Arpası verilmeyen at dağları aşamaz, arkasında destekçisi olmayan er de işlerinde başarıya ulaşıp baş olamaz.",
+    "guncel": "Arpa."
+  },
+  {
+    "id": "ayran",
+    "kelime": "Ayran",
+    "arapca": "اَيْرَنْ",
+    "orijinal": "Yoğurdun suyla sulandırılmasıyla elde edilen milli Türk içeceği. Divan'da göçebe Türklerin yaz sıcaklarında ferahlamak için tükettiği en ulu içecek olarak geçer.",
+    "sav": "Ayranı bar kurut eyler, süti bar kımız eyler",
+    "savAnlam": "Elinde ayranı olan onu kurutup saklar, sütü olan ise mayalayıp kımız yapar. (Herkes elindeki imkanı değerlendirir.)",
+    "guncel": "Ayran."
+  },
+  {
+    "id": "armut",
+    "kelime": "Armut",
+    "arapca": "اَرْمُوتْ",
+    "orijinal": "Armut meyvesi. Türk bahçelerinde yetiştirilen ve kışın yenmek üzere kurutulan kadim bir meyve türü.",
+    "sav": "Armut pış, ağzıma düş",
+    "savAnlam": "Emek vermeden, armudun dalında pişip kendiliğinden ağzına düşmesini bekleyen tembellerin durumunu anlatan kadim söz.",
+    "guncel": "Armut."
+  },
+  {
+    "id": "ad",
+    "kelime": "Ad",
+    "arapca": "اَدْ",
+    "orijinal": "İsim, unvan, san. Türklerde bir çocuğa veya bir alpa isim verilmesi törenle olur. Kahramanlık göstermeyene ulu bir ad verilmez.",
+    "sav": "Er ölür adı kalır, barçası yalan kalır",
+    "savAnlam": "İnsan ölür gider ama dünyada bıraktığı şerefli adı ebedi kalır; mal mülk ise yalan olur.",
+    "guncel": "Ad, isim, unvan."
+  },
+  {
+    "id": "anuk",
+    "kelime": "Anuk",
+    "arapca": "اَنُقْ",
+    "orijinal": "Hazır, amade, tetikte olan kimse veya nesne. Savaş anında pusatları kuşanmış şekilde bekleyen orduları tanımlar.",
+    "sav": "Anuk ok yagıga tüzülür",
+    "savAnlam": "Her an atılmaya hazır bekleyen ok, düşman ansızın belirdiğinde hedefe tam isabet eder. (Teyakkuzda olmanın önemi.)",
+    "guncel": "Hazır, amade."
+  },
+  {
+    "id": "ağaç",
+    "kelime": "Ağaç",
+    "arapca": "اَغَاجْ",
+    "orijinal": "Ağaç, odun, bitki. Divan'da Türklerin ormanlık sahalardaki yaşamları, çadır direği ve ok yapmak için hangi ağaçları seçtikleri teferruatıyla anlatılır.",
+    "sav": "Yıgaç uçınga yil teger, körklüg kişige söz teger",
+    "savAnlam": "Ağacın en çok tepesine (yüksek dalına) rüzgar vurur, güzel ve başarılı insana da en çok laf/söz (nazar) değer.",
+    "guncel": "Ağaç."
+  },
+  {
+    "id": "ayranmak",
+    "kelime": "Ayranmak",
+    "arapca": "اَيْرَنْمَقْ",
+    "orijinal": "Aklın karışması, başın dönmesi, hayretler içinde kalmak. Büyük bir olay karşısında şaşkınlığa düşen alpları tasvir eder.",
+    "sav": "Uluğ iş körse ayranur",
+    "savAnlam": "Devasa ve ulu bir iş gören adamın hayretinden başı döner, ne yapacağını şaşırır.",
+    "guncel": "Şaşırmak, hayrete düşmek, başı dönmek."
+  },
+  {
+    "id": "al",
+    "kelime": "Al",
+    "arapca": "اَلْ",
+    "orijinal": "Hile, tuzak, düzen, kurnazlık. Savaş taktiklerinde düşmanı tuzağa düşürmek için yapılan askeri manevraları ve Turan taktiğini anlatmak için de kullanılır.",
+    "sav": "Al birle arslan tutar, küç birle sıçgan tutmas",
+    "savAnlam": "Akıl ve hile (strateji) ile koskoca aslan bile yakalanır, kaba güçle ise bir fare bile tutulamaz.",
+    "guncel": "Hile, tuzak, strateji."
+  },
+  {
+    "id": "arı",
+    "kelime": "Arı",
+    "arapca": "اَرِى",
+    "orijinal": "Bal arısı veya böcek. Divan'da Türklerin doğadaki balları nasıl topladıkları ve şifa niyetine kullandıkları bu madde altında işlenir.",
+    "sav": "Arı yaguz erse balı tatlıg",
+    "savAnlam": "Arı her ne kadar iğnesiyle hırçın ve sokucu olsa da ürettiği balı çok tatlıdır. (Zor mizaçlı ama faydalı insanların durumunu anlatır.)",
+    "guncel": "Arı."
+  },
+  {
+    "id": "alym",
+    "kelime": "Alım",
+    "arapca": "اَلِمْ",
+    "orijinal": "Borç, alacak, birinden alınacak olan pay. Türk töresindeki ticari hukuka ve borçlanma esaslarına dair Kaşgarlı'nın verdiği önemli bir terimdir.",
+    "sav": "Alım alganda uluğ, berim bergendedir küçük",
+    "savAnlam": "Alacağını alırken aslan kesilen (büyük duran) adam, borcunu ödemeye gelince küçülür, kaçacak yer arar.",
+    "guncel": "Alacak, borç bakiyesi."
+  },
+  {
+    "id": "berim",
+    "kelime": "Berim",
+    "arapca": "بَرِمْ",
+    "orijinal": "Borç, ödenecek vergi, yükümlülük. (Kaşgarlı Mahmud bu kelimeyi 'Alım' teriminin zıttı ve tamamlayıcısı olarak 'A' harfi altında zikretmiştir.)",
+    "sav": "Berim bilgen er bağımsız olur",
+    "savAnlam": "Borcunu vaktinde ödemeyi bilen er, kimseye boyun eğmez, hür ve bağımsız yaşar.",
+    "guncel": "Borç, vergi yükümlülüğü."
+  },
+  {
+    "id": "asruq",
+    "kelime": "Asruq",
+    "arapca": "اَسْرُقْ",
+    "orijinal": "Aksırık, hapşırık. Divan'da insani biyolojik hallerin kadim Türkçe karşılıkları verilirken geçer.",
+    "sav": "Asruq kelser yaş uzun olur",
+    "savAnlam": "Hapşırık geldiğinde rahatlayan bedenin ömrü uzun, sıhhati bol olur diye inanılır (Çok yaşa geleneğinin kökeni).",
+    "guncel": "Aksırık, hapşırık."
+  },
+  {
+    "id": "alkamak",
+    "kelime": "Alkamak",
+    "arapca": "اَلْقَمَقْ",
+    "orijinal": "Birini övmek, göklere çıkarmak, ona şükran sunmak. Savaş meydanından zaferle dönen alpları kurultay önünde övme eylemi.",
+    "sav": "Erdemliği alkasalar erliği artar",
+    "savAnlam": "Erdemli ve başarılı kişiyi halk önünde övüp takdir ederseniz, onun cesareti ve millete hizmet aşkı kat kat artar.",
+    "guncel": "Alkamak, övmek, takdir etmek."
+  },
+  {
+    "id": "artut",
+    "kelime": "Artut",
+    "arapca": "اَرْتُتْ",
+    "orijinal": "Rüşvet, yasa dışı bağış veya haksız kazanç. Divan'da adaleti bozan beyleri ve çöken idareleri eleştirmek için kullanılan olumsuz bir kelimedir.",
+    "sav": "Artut algan bey adil bolmas",
+    "savAnlam": "Rüşvet (artut) alan bey/hâkim ne kadar uğraşırsa uğraşsın bir daha asla adaletle hükmedemez, halkı ezer.",
+    "guncel": "Rüşvet."
+  },
+  {
+    "id": "ayaz",
+    "kelime": "Ayaz",
+    "arapca": "اَيَازْ",
+    "orijinal": "Bulutsuz, açık ama dondurucu kış soğuğu. Bozkır kışının o meşhur, insanı çarpan keskin havasını tarif eder.",
+    "sav": "Ayaz kılsa argış tüşer, bulut kılsa yağmur yağar",
+    "savAnlam": "Hava ayaz kestiğinde yolcular konaklar (donmamak için), bulutlandığında ise bereketi getiren yağmur yağar.",
+    "guncel": "Ayaz, kuru soğuk."
+  },
+  {
+    "id": "azguk",
+    "kelime": "Azguk",
+    "arapca": "اَزْغُقْ",
+    "orijinal": "Yoldan çıkmış, sapkın, azgın kimse. Boyun kurallarına uymayan ve isyan eden kişileri tanımlar.",
+    "sav": "Azguk erge akıl kar etmez",
+    "savAnlam": "Yoldan çıkmış, mayası bozulmuş adama ne kadar akıl ve nasihat versen de fayda etmez, bildiğini okur.",
+    "guncel": "Azgın, sapkın, asi."
+  },
+  {
+    "id": "andlaşmak",
+    "kelime": "Andlaşmak",
+    "arapca": "اَنْدْلَشْمَقْ",
+    "orijinal": "Karşılıklı yeminleşmek, sözleşmek, kardeşlik akdi kurmak. Kan kardeşi (antlı) olan alpların yaptığı törensel eylem.",
+    "sav": "Andlaşan er yagıdan korkmas",
+    "savAnlam": "Birbiriyle ölümüne andlaşan ve sırt sırta veren iki yiğit, karşılarına koca bir ordu (düşman) çıksa bile zerre korkmaz.",
+    "guncel": "Antlaşmak, sözleşmek."
+  },
+  {
+    "id": "aralatmak",
+    "kelime": "Aralatmak",
+    "arapca": "اَرَلَتْمَقْ",
+    "orijinal": "İki şeyin arasını açmak, mesafe koymak, seyrek hale getirmek. Savaş nizamında safların durumunu ayarlamak için kullanılır.",
+    "sav": "Yagı kelser safıg aralatma",
+    "savAnlam": "Düşman hücum ettiğinde askeri safların arasını açma (aralatma) ki araya sızıp orduyu bozmasınlar. (Birlik olun mesajı.)",
+    "guncel": "Aralatmak, mesafe koymak."
+  },
+  {
+    "id": "arış",
+    "kelime": "Arış",
+    "arapca": "اَرِشْ",
+    "orijinal": "Dokuma tezgahlarında kullanılan boyuna çekilen iplik, arış, gergi. Türk kadınlarının halı ve kilim dokuma sanatındaki teknik terimlerindendir.",
+    "sav": "Arışı tüz bolmasa kilim eğri çıkar",
+    "savAnlam": "Tezgahtaki ana iplik (arış) düzgün gerilmezse, dokunan kilim de yamuk yumuk olur. (İşin temeli düzgün atılmalıdır.)",
+    "guncel": "Dokuma ipliği; mecazen işin temeli."
+  },
+  {
+    "id": "asılmak",
+    "kelime": "Asılmak",
+    "arapca": "اَسِلْمَقْ",
+    "orijinal": "Yukarıdan aşağıya sarkmak, bir yere asılı kalmak. Divan'da avlanan etlerin bozulmaması için çadır tavanına asılması anlatılırken geçer.",
+    "sav": "Asılmış etke aç it suwlar",
+    "savAnlam": "Yukarıya asılmış olan ete aşağıdan bakan aç köpeğin ağzının suyu akar ama erişemez. (Ulaşılamayacak hedeflere uzaktan imrenenleri hicveder.)",
+    "guncel": "Asılmak, sarkmak."
+  },
+  {
+    "id": "aslık",
+    "kelime": "Aslık",
+    "arapca": "اَسْلِقْ",
+    "orijinal": "Tahıl ambarı, ekin saklanan korunaklı kiler. Kışlık buğday ve arpanın nemden ve fareden korunması için yapılan yapılar.",
+    "sav": "Aslığı dolu olanın kışı yaz olur",
+    "savAnlam": "Ambarı (aslığı) ekinle dolu olan çiftçinin ve obanın kışı ne kadar sert geçse de içi rahattır, ona yaz gibi gelir.",
+    "guncel": "Tahıl ambarı, kiler."
+  },
+  {
+    "id": "atlamak",
+    "kelime": "Atlamak",
+    "arapca": "اَتْلَمَقْ",
+    "orijinal": "Ata binmek, süvari olmak; bir engelin üzerinden sıçramak. Çocukların ergenlik çağına geldiğinde ata binerek ilk avlarına çıkması töresidir.",
+    "sav": "Atlagan er özün bey sanır",
+    "savAnlam": "Ata ilk defa binip süvari olan genç, sevincinden ve gururundan kendini koskoca bey zanneder.",
+    "guncel": "Atlamak, sıçramak; ata binmek."
+  },
+  {
+    "id": "atgarmak",
+    "kelime": "Atgarmak",
+    "arapca": "اَتْغَرْمَقْ",
+    "orijinal": "Bir işi göndermek, bitirmek, uğurlamak, yola çıkarmak. Hakanın elçileri hediye ve mektuplarla yabancı ülkelere yollaması eylemi.",
+    "sav": "Sözü atgar, işi bitir",
+    "savAnlam": "Lafı uzatmadan hemen yola çıkar (atgar), asıl önemli olan işi neticelendirip bitirmektir.",
+    "guncel": "Uğurlamak, yola çıkarmak, göndermek."
+  },
+  {
+    "id": "atım",
+    "kelime": "Atım",
+    "arapca": "اَتِمْ",
+    "orijinal": "Bir ok atımı mesafe, menzil. Türk okçuluğunda yayın gücünü ve alpın maharetini ölçen kadim mesafe birimi.",
+    "sav": "Bir atım ok bir can kurtarır",
+    "savAnlam": "Vaktinde ve tam isabetle atılan tek bir ok, savaş meydanında koskoca bir alpın hayatını kurtarabilir.",
+    "guncel": "Atım, menzil, hamle."
+  },
+  {
+    "id": "avunmak",
+    "kelime": "Avunmak",
+    "arapca": "اَوُنْمَقْ",
+    "orijinal": "Teselli bulmak, acısını hafifletmek, sakinleşmek. Savaşta yakınını kaybeden obanın yaktığı ağıtlarla içini soğutması.",
+    "sav": "Bala yitiren bala birle avunur",
+    "savAnlam": "Yavrusunu kaybeden anne/insan, ancak geride kalan diğer evlatlarına sarılarak hayatta teselli bulur (avunur).",
+    "guncel": "Avunmak, teselli bulmak."
+  },
+  {
+    "id": "avutmak",
+    "kelime": "Avutmak",
+    "arapca": "اَوُتْمَقْ",
+    "orijinal": "Birini sakinleştirmek, oyalamak, acısını unutturmak. Genellikle ağlayan çocukları masallarla sakinleştiren ninelerin eylemi.",
+    "sav": "Aç balayı söz birle avutma, aş birle doyur",
+    "savAnlam": "Aç olan çocuğu sadece güzel sözlerle avutmaya kalkışma; ona direkt ekmek (aş) vererek karnını doyur. (Boş laf karın doyurmaz.)",
+    "guncel": "Avutmak, oyalamak."
+  },
+  {
+    "id": "ayranmak",
+    "kelime": "Ayranmak",
+    "arapca": "اَيْرَنْمَقْ",
+    "orijinal": "Sütü yayıkta çalkalayarak yağını ve ayranını ayırmak. Göçebe Türk hayvancılığının en temel üretim süreçlerinden biridir.",
+    "sav": "Yayıg ayransa yağ çıkar",
+    "savAnlam": "Yayığı bıkmadan usanmadan ne kadar çok çalkalayıp ayran edersen, sonunda yüzeyine o kadar çok değerli tereyağı çıkar. (Emek vermeden netice alınmaz.)",
+    "guncel": "Yayık yaymak, çalkalamak."
+  },
+  {
+    "id": "azıtmak",
+    "kelime": "Azıtmak",
+    "arapca": "اَزِتْمَقْ",
+    "orijinal": "Yoldan çıkarmak, birini kandırıp doğru yoldan saptırmak. Savaşta düşman öncü birliğini yalan kaçışla tuzağa (pusuya) doğru çekme taktiği.",
+    "sav": "Yagıg azıtsan pusuwga düşer",
+    "savAnlam": "Düşmanı sahte kaçışla şaşırtıp yoldan azıtırsan (saptırırsan), kendi ayağıyla gelip kurduğun pusuya düşer.",
+    "guncel": "Azıtmak, yoldan çıkarmak, sapıtmak."
+  },
+  {
+    "id": "ayruk",
+    "kelime": "Ayruk",
+    "arapca": "اَيْرُقْ",
+    "orijinal": "Başka, gayrı, yabancı, uymayan kimse. Türk boylarının dışında kalan ve töreyi bilmeyen yabancı toplulukları tanımlamak için de kullanılır.",
+    "sav": "Ayruk söz ilge yaramas",
+    "savAnlam": "Töreye ve birliğe uymayan, yabancı ve çatlak sesler (ayruk sözler) devlete/millete hiçbir fayda sağlamaz, fitne çıkarır.",
+    "guncel": "Ayrı, başka, farklı."
   }
 ]
