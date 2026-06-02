@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divânu Lugâti't-Türk Sözlüğü</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-container">
+        <h1 class="site-title">Divânu Lugâti't-Türk</h1>
+        <p class="site-subtitle">Kadim Türkçenin Devasa Dijital Arşivi</p>
+        
+        <div class="search-box">
+            <input type="text" id="aramaKutusu" class="search-input" placeholder="Bir kelime arayın... (Örn: alp, ok, kılıç)">
+        </div>
+        
+        <!-- SONUÇ ALANI -->
+        <div id="sonucAlani" class="result-box" style="display: none;">
+            <div class="word-header">
+                <h2 id="kelimeAdi">Kelime</h2>
+                <h3 id="kelimeArapca" class="arabic-text"></h3>
+            </div>
+            
+            <hr class="divider">
+            
+            <div class="info-section">
+                <h4>Divan'daki Orijinal Açıklaması:</h4>
+                <p id="orijinalAnlam">...</p>
+            </div>
+
+            <div id="savAlani" class="sav-section">
+                <h4>İlgili Kadim Sav (Atasözü):</h4>
+                <blockquote id="savMetni">"..."</blockquote>
+                <p id="savAnlamı"><strong>Anlamı:</strong> ...</p>
+            </div>
+            
+            <div class="info-section">
+                <h4>Günümüz Türkçesindeki Karşılığı:</h4>
+                <p id="guncelAnlam">...</p>
+            </div>
+        </div>
+
+        <div class="info-text">
+            <p>Aratmak için kelimeyi yazıp <strong>Enter</strong> tuşuna basınız.</p>
+        </div>
+    </div>
+
+    <script>
+        // VERİTABANI DOĞRUDAN KODUN İÇİNDE - ARTIK FETCH HATASI ALMA ŞANSI YOK!
+        const kelimeVeritabani = [
+          {
+            "id": "ok",
+            "kelime": "Ok",
+            "arapca": "اُكْ",
+            "orijinal": "Yay aracılığıyla fırlatılan, ucu demirli ahşap savaş ve av aleti. Türk boyları arasında oklara ve yaylara büyük değer verilir. Oğuzlar ve Yağmalar savaş kurultaylarında boyların sırasını, rütbesini ve yerini belirlemek için oku bir nişan veya resmi bir elçilik alameti olarak kullanırlar.",
+            "sav": "Köz tutsa ok kılınmas",
+            "savAnlam": "Gözün hedefi tutmazsa, okun fırlatılmasının bir hükmü kalmaz. (Odaksız yapılan iş fayda vermez.)",
+            "guncel": "Yay ile fırlatılan, ucu sivri savaş ve av aleti."
+          },
+          {
+            "id": "alp",
+            "kelime": "Alp",
+            "arapca": "اَلْپْ",
+            "orijinal": "Yiğit, kahraman, cesur, bahadır kimse. Savaşlarda boy gösteren, yürekli, korkusuz ve tek başına ordulara meydan okuyan erleri tanımlamak için kullanılır. Türk hakanları ve beyleri bu unvanı taşımaktan gurur duyar.",
+            "sav": "Alp eröni bulmas, at hani kalmas",
+            "savAnlam": "Yiğit er ölümsüz olmaz, iyi at sahipsiz kalmaz. (Her fani ölür ama geride yiğitlerin şanı kalır.)",
+            "guncel": "Kahraman, yiğit, cesur savaşçı."
+          },
+          {
+            "id": "kılıç",
+            "kelime": "Kılıç",
+            "arapca": "قِلِجْ",
+            "orijinal": "Çelikten dövülen, iki ağzı keskin, Türk alpının ve sübaşısının yanından asla ayırmadığı kutsal savaş silahı. Divan'da kılıç üzerine yapılan yeminlerin ve kılıç dövme ustalarının ehemmiyeti genişçe anlatılır.",
+            "sav": "Kılıç tatıksa iş yorır",
+            "savAnlam": "Kılıç paslanmaz, parıldarsa (ordu güçlü olursa) devlet işleri tıkır tıkır yürür. (Askeri disiplin ve caydırıcılığın devlet yönetimindeki rolü.)",
+            "guncel": "Çelik savaş silahı, kılıç."
+          },
+          {
+            "id": "yarık",
+            "kelime": "Yarık",
+            "arapca": "يَرُقْ",
+            "orijinal": "Zırh, savaş elbisesi. Türk beyleri ve alp erleri savaş meydanında canlarını ve göğüslerini korumak için demir levhalardan veya sertleştirilmiş deriden yapılan yarık giyerler. Bu kelime Oğuzlar arasında da böyle bilinir.",
+            "sav": "Yarık kapgıl yagı keldi",
+            "savAnlam": "Zırhını kuşan, düşman geldi! (Tehlike anında hemen hazırlıklı olunmasını nasihat eden söz.)",
+            "guncel": "Savaşçıların giydiği demir veya deri zırh."
+          }
+        ];
+
+        const inputField = document.getElementById('aramaKutusu');
+
+        inputField.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                const aranan = inputField.value.trim().toLowerCase();
+                if (aranan === "") return;
+
+                // Doğrudan içerideki diziden arıyoruz
+                const bulunan = kelimeVeritabani.find(k => k.id === aranan);
+                const sonucAlani = document.getElementById('sonucAlani');
+
+                if (bulunan) {
+                    document.getElementById('kelimeAdi').innerText = bulunan.kelime;
+                    document.getElementById('kelimeArapca').innerText = bulunan.arapca;
+                    document.getElementById('orijinalAnlam').innerText = bulunan.orijinal;
+                    document.getElementById('guncelAnlam').innerText = bulunan.guncel;
+                    
+                    const savAlani = document.getElementById('savAlani');
+                    if (bulunan.sav && bulunan.sav.trim() !== "") {
+                        document.getElementById('savMetni').innerText = `"${bulunan.sav}"`;
+                        document.getElementById('savAnlamı').innerHTML = `<strong>Anlamı:</strong> ${bulunan.savAnlam}`;
+                        savAlani.style.display = "block";
+                    } else {
+                        savAlani.style.display = "none";
+                    }
+                    
+                    sonucAlani.style.display = "block";
+                } else {
+                    sonucAlani.style.display = "none";
+                    alert("Aradığınız kelime henüz dijital arşivde yok. Lütfen alp, ok veya kılıç yazarak deneyin.");
+                }
+            }
+        });
+    </script>
+</body>
+</html>
