@@ -14,9 +14,24 @@
         <div class="search-box">
             <input type="text" id="aramaKutusu" class="search-input" placeholder="Bir kelime arayın... (Örn: alp, ok, kılıç)">
         </div>
+
+        <!-- GÜNÜN ÖNERİLERİ ALANI (Arama yapılınca gizlenecek) -->
+        <div id="oneriAlani" class="suggestions-box">
+            <h3>Günün Kadim Önerileri</h3>
+            <div class="suggestion-tags">
+                <span onclick="oneriAra('alp')">Alp</span>
+                <span onclick="oneriAra('alper tunga')">Alp Er Tunga</span>
+                <span onclick="oneriAra('acun')">Acun</span>
+                <span onclick="oneriAra('aslan')">Aslan</span>
+                <span onclick="oneriAra('akın')">Akın</span>
+            </div>
+        </div>
         
         <!-- SONUÇ ALANI -->
         <div id="sonucAlani" class="result-box" style="display: none;">
+            <!-- GERİ / TEMİZLE BUTONU -->
+            <button id="geriButonu" class="back-btn">← Kelimelere Geri Dön</button>
+
             <div class="word-header">
                 <h2 id="kelimeAdi">Kelime</h2>
                 <h3 id="kelimeArapca" class="arabic-text"></h3>
